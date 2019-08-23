@@ -1,0 +1,11 @@
+C:\Users\RMB\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.2\ConsoleApp4.deps.json
+C:\Users\RMB\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.2\ConsoleApp4.runtimeconfig.json
+C:\Users\RMB\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.2\ConsoleApp4.runtimeconfig.dev.json
+C:\Users\RMB\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.2\ConsoleApp4.dll
+C:\Users\RMB\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.2\ConsoleApp4.pdb
+C:\Users\RMB\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\RMB\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\RMB\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\RMB\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ConsoleApp4.AssemblyInfo.cs
+C:\Users\RMB\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ConsoleApp4.dll
+C:\Users\RMB\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ConsoleApp4.pdb
