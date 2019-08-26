@@ -1,0 +1,11 @@
+C:\Users\RMB\source\repos\Singleton-pattern\Abstract_Factory\Abstract_Factory\bin\Debug\netcoreapp2.2\Abstract_Factory.deps.json
+C:\Users\RMB\source\repos\Singleton-pattern\Abstract_Factory\Abstract_Factory\bin\Debug\netcoreapp2.2\Abstract_Factory.runtimeconfig.json
+C:\Users\RMB\source\repos\Singleton-pattern\Abstract_Factory\Abstract_Factory\bin\Debug\netcoreapp2.2\Abstract_Factory.runtimeconfig.dev.json
+C:\Users\RMB\source\repos\Singleton-pattern\Abstract_Factory\Abstract_Factory\bin\Debug\netcoreapp2.2\Abstract_Factory.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Abstract_Factory\Abstract_Factory\bin\Debug\netcoreapp2.2\Abstract_Factory.pdb
+C:\Users\RMB\source\repos\Singleton-pattern\Abstract_Factory\Abstract_Factory\obj\Debug\netcoreapp2.2\Abstract_Factory.csprojAssemblyReference.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Abstract_Factory\Abstract_Factory\obj\Debug\netcoreapp2.2\Abstract_Factory.csproj.CoreCompileInputs.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Abstract_Factory\Abstract_Factory\obj\Debug\netcoreapp2.2\Abstract_Factory.AssemblyInfoInputs.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Abstract_Factory\Abstract_Factory\obj\Debug\netcoreapp2.2\Abstract_Factory.AssemblyInfo.cs
+C:\Users\RMB\source\repos\Singleton-pattern\Abstract_Factory\Abstract_Factory\obj\Debug\netcoreapp2.2\Abstract_Factory.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Abstract_Factory\Abstract_Factory\obj\Debug\netcoreapp2.2\Abstract_Factory.pdb
