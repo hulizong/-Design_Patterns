@@ -1,0 +1,11 @@
+C:\Users\RMB\source\repos\Singleton-pattern\Adapter_Pattern\Adapter_Pattern\bin\Debug\netcoreapp3.0\Adapter_Pattern.exe
+C:\Users\RMB\source\repos\Singleton-pattern\Adapter_Pattern\Adapter_Pattern\bin\Debug\netcoreapp3.0\Adapter_Pattern.deps.json
+C:\Users\RMB\source\repos\Singleton-pattern\Adapter_Pattern\Adapter_Pattern\bin\Debug\netcoreapp3.0\Adapter_Pattern.runtimeconfig.json
+C:\Users\RMB\source\repos\Singleton-pattern\Adapter_Pattern\Adapter_Pattern\bin\Debug\netcoreapp3.0\Adapter_Pattern.runtimeconfig.dev.json
+C:\Users\RMB\source\repos\Singleton-pattern\Adapter_Pattern\Adapter_Pattern\bin\Debug\netcoreapp3.0\Adapter_Pattern.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Adapter_Pattern\Adapter_Pattern\bin\Debug\netcoreapp3.0\Adapter_Pattern.pdb
+C:\Users\RMB\source\repos\Singleton-pattern\Adapter_Pattern\Adapter_Pattern\obj\Debug\netcoreapp3.0\Adapter_Pattern.csprojAssemblyReference.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Adapter_Pattern\Adapter_Pattern\obj\Debug\netcoreapp3.0\Adapter_Pattern.AssemblyInfoInputs.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Adapter_Pattern\Adapter_Pattern\obj\Debug\netcoreapp3.0\Adapter_Pattern.AssemblyInfo.cs
+C:\Users\RMB\source\repos\Singleton-pattern\Adapter_Pattern\Adapter_Pattern\obj\Debug\netcoreapp3.0\Adapter_Pattern.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Adapter_Pattern\Adapter_Pattern\obj\Debug\netcoreapp3.0\Adapter_Pattern.pdb
