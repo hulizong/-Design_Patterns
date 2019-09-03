@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Bridge_Pattern/1.0.0": {
+        "runtime": {
+          "Bridge_Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bridge_Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
