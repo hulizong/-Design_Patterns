@@ -1,0 +1,11 @@
+C:\Users\RMB\source\repos\Singleton-pattern\Composite_Pattern\Composite_Pattern\bin\Debug\netcoreapp3.0\Composite_Pattern.exe
+C:\Users\RMB\source\repos\Singleton-pattern\Composite_Pattern\Composite_Pattern\bin\Debug\netcoreapp3.0\Composite_Pattern.deps.json
+C:\Users\RMB\source\repos\Singleton-pattern\Composite_Pattern\Composite_Pattern\bin\Debug\netcoreapp3.0\Composite_Pattern.runtimeconfig.json
+C:\Users\RMB\source\repos\Singleton-pattern\Composite_Pattern\Composite_Pattern\bin\Debug\netcoreapp3.0\Composite_Pattern.runtimeconfig.dev.json
+C:\Users\RMB\source\repos\Singleton-pattern\Composite_Pattern\Composite_Pattern\bin\Debug\netcoreapp3.0\Composite_Pattern.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Composite_Pattern\Composite_Pattern\bin\Debug\netcoreapp3.0\Composite_Pattern.pdb
+C:\Users\RMB\source\repos\Singleton-pattern\Composite_Pattern\Composite_Pattern\obj\Debug\netcoreapp3.0\Composite_Pattern.csprojAssemblyReference.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Composite_Pattern\Composite_Pattern\obj\Debug\netcoreapp3.0\Composite_Pattern.AssemblyInfoInputs.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Composite_Pattern\Composite_Pattern\obj\Debug\netcoreapp3.0\Composite_Pattern.AssemblyInfo.cs
+C:\Users\RMB\source\repos\Singleton-pattern\Composite_Pattern\Composite_Pattern\obj\Debug\netcoreapp3.0\Composite_Pattern.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Composite_Pattern\Composite_Pattern\obj\Debug\netcoreapp3.0\Composite_Pattern.pdb
