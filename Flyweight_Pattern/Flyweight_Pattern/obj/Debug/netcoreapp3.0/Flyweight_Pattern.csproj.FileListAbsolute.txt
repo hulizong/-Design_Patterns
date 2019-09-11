@@ -1,0 +1,10 @@
+C:\Users\RMB\source\repos\Singleton-pattern\Flyweight_Pattern\Flyweight_Pattern\bin\Debug\netcoreapp3.0\Flyweight_Pattern.exe
+C:\Users\RMB\source\repos\Singleton-pattern\Flyweight_Pattern\Flyweight_Pattern\bin\Debug\netcoreapp3.0\Flyweight_Pattern.deps.json
+C:\Users\RMB\source\repos\Singleton-pattern\Flyweight_Pattern\Flyweight_Pattern\bin\Debug\netcoreapp3.0\Flyweight_Pattern.runtimeconfig.json
+C:\Users\RMB\source\repos\Singleton-pattern\Flyweight_Pattern\Flyweight_Pattern\bin\Debug\netcoreapp3.0\Flyweight_Pattern.runtimeconfig.dev.json
+C:\Users\RMB\source\repos\Singleton-pattern\Flyweight_Pattern\Flyweight_Pattern\bin\Debug\netcoreapp3.0\Flyweight_Pattern.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Flyweight_Pattern\Flyweight_Pattern\bin\Debug\netcoreapp3.0\Flyweight_Pattern.pdb
+C:\Users\RMB\source\repos\Singleton-pattern\Flyweight_Pattern\Flyweight_Pattern\obj\Debug\netcoreapp3.0\Flyweight_Pattern.AssemblyInfoInputs.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Flyweight_Pattern\Flyweight_Pattern\obj\Debug\netcoreapp3.0\Flyweight_Pattern.AssemblyInfo.cs
+C:\Users\RMB\source\repos\Singleton-pattern\Flyweight_Pattern\Flyweight_Pattern\obj\Debug\netcoreapp3.0\Flyweight_Pattern.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Flyweight_Pattern\Flyweight_Pattern\obj\Debug\netcoreapp3.0\Flyweight_Pattern.pdb
