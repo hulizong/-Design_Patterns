@@ -1,0 +1,12 @@
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\bin\Debug\netcoreapp3.0\Proxy_Pattern.exe
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\bin\Debug\netcoreapp3.0\Proxy_Pattern.deps.json
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\bin\Debug\netcoreapp3.0\Proxy_Pattern.runtimeconfig.json
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\bin\Debug\netcoreapp3.0\Proxy_Pattern.runtimeconfig.dev.json
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\bin\Debug\netcoreapp3.0\Proxy_Pattern.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\bin\Debug\netcoreapp3.0\Proxy_Pattern.pdb
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\obj\Debug\netcoreapp3.0\Proxy_Pattern.csprojAssemblyReference.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\obj\Debug\netcoreapp3.0\Proxy_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\obj\Debug\netcoreapp3.0\Proxy_Pattern.AssemblyInfoInputs.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\obj\Debug\netcoreapp3.0\Proxy_Pattern.AssemblyInfo.cs
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\obj\Debug\netcoreapp3.0\Proxy_Pattern.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Proxy_Pattern\Proxy_Pattern\obj\Debug\netcoreapp3.0\Proxy_Pattern.pdb
