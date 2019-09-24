@@ -1,0 +1,11 @@
+C:\Users\RMB\source\repos\Singleton-pattern\Template_Method_Pattern\Template_Method_Pattern\bin\Debug\netcoreapp3.0\Template_Method_Pattern.exe
+C:\Users\RMB\source\repos\Singleton-pattern\Template_Method_Pattern\Template_Method_Pattern\bin\Debug\netcoreapp3.0\Template_Method_Pattern.deps.json
+C:\Users\RMB\source\repos\Singleton-pattern\Template_Method_Pattern\Template_Method_Pattern\bin\Debug\netcoreapp3.0\Template_Method_Pattern.runtimeconfig.json
+C:\Users\RMB\source\repos\Singleton-pattern\Template_Method_Pattern\Template_Method_Pattern\bin\Debug\netcoreapp3.0\Template_Method_Pattern.runtimeconfig.dev.json
+C:\Users\RMB\source\repos\Singleton-pattern\Template_Method_Pattern\Template_Method_Pattern\bin\Debug\netcoreapp3.0\Template_Method_Pattern.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Template_Method_Pattern\Template_Method_Pattern\bin\Debug\netcoreapp3.0\Template_Method_Pattern.pdb
+C:\Users\RMB\source\repos\Singleton-pattern\Template_Method_Pattern\Template_Method_Pattern\obj\Debug\netcoreapp3.0\Template_Method_Pattern.csprojAssemblyReference.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Template_Method_Pattern\Template_Method_Pattern\obj\Debug\netcoreapp3.0\Template_Method_Pattern.AssemblyInfoInputs.cache
+C:\Users\RMB\source\repos\Singleton-pattern\Template_Method_Pattern\Template_Method_Pattern\obj\Debug\netcoreapp3.0\Template_Method_Pattern.AssemblyInfo.cs
+C:\Users\RMB\source\repos\Singleton-pattern\Template_Method_Pattern\Template_Method_Pattern\obj\Debug\netcoreapp3.0\Template_Method_Pattern.dll
+C:\Users\RMB\source\repos\Singleton-pattern\Template_Method_Pattern\Template_Method_Pattern\obj\Debug\netcoreapp3.0\Template_Method_Pattern.pdb
